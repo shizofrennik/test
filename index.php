@@ -13,7 +13,7 @@
 	</head>
 	<body>
 	<div>
-		<h2 style="text-align:center">Задание</h2>
+		<h2 style="text-align:center">Задание!</h2>
 	</div>
 	<style>
 td {padding-top: 10px;
